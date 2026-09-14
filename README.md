@@ -17,7 +17,7 @@ Repository containing the pipeline scripts and presentation slides from the **Xi
 
 ### Repository Contents
 
-- **Presentation Slides**: Open the `index.html` file in your browser to view the slide deck.
+- **Presentation Slides**: Open the `index-en.html` file in your browser to view the slide deck in English.
 - **Pipeline Scripts**: (Add description or folder location of the scripts here).
 
 ### Speaker
