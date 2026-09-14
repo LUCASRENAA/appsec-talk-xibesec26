@@ -18,7 +18,10 @@ Repository containing the pipeline scripts and presentation slides from the **Xi
 ### Repository Contents
 
 - **Presentation Slides**: Open the `index-en.html` file in your browser to view the slide deck in English.
-- **Pipeline Scripts**: (Add description or folder location of the scripts here).
+- **`.github/workflows/`**: Contains the GitHub Actions workflow (`pipeline.yml`) demonstrating automated security checks (SAST, SCA, and DAST).
+- **`Code Review/`**: Contains vulnerable Python scripts demonstrating Command Injection in a ping application, and how to fix them.
+- **`Legislação/`**: Contains Python scripts to detect Personally Identifiable Information (PII) data leaks and generate HTML audit reports.
+- **`Mobile/`**: Contains a base Android application project to demonstrate security integrations in a mobile environment.
 
 ### Speaker
 
@@ -43,7 +46,10 @@ Repositório contendo os scripts da pipeline e os slides da apresentação reali
 ### Conteúdo do Repositório
 
 - **Slides da Apresentação**: Acesse o arquivo `index.html` no seu navegador para visualizar a apresentação de slides.
-- **Scripts da Pipeline**: (Adicione aqui a descrição ou o diretório onde os scripts estão localizados).
+- **`.github/workflows/`**: Contém o workflow do GitHub Actions (`pipeline.yml`) demonstrando verificações automatizadas de segurança (SAST, SCA e DAST).
+- **`Code Review/`**: Contém scripts Python vulneráveis demonstrando Command Injection em uma aplicação de ping, e suas respectivas correções.
+- **`Legislação/`**: Contém scripts Python utilizados para detectar vazamento de dados pessoais (PII) e gerar relatórios de auditoria em HTML.
+- **`Mobile/`**: Contém um projeto base de aplicativo Android para demonstrar integrações de segurança em ambiente mobile.
 
 ### Palestrante
 
