@@ -23,6 +23,14 @@ Repository containing the pipeline scripts and presentation slides from the **Xi
 - **`Legislação/`**: Contains Python scripts to detect Personally Identifiable Information (PII) data leaks and generate HTML audit reports.
 - **`Mobile/`**: Contains a base Android application project to demonstrate security integrations in a mobile environment.
 
+### Acknowledgments
+
+Special thanks to my colleagues who helped put these slides together:
+- **Samuel** (GitHub: [samuelvlopes](https://github.com/samuelvlopes))
+- **Arthur** (LinkedIn: [arthurlimatech](https://www.linkedin.com/in/arthurlimatech/))
+
+And a big thank you to **XibéSec** for the incredible opportunity to present this content!
+
 ### Speaker
 
 **Lucas Renan Meira dos Santos**
@@ -50,6 +58,14 @@ Repositório contendo os scripts da pipeline e os slides da apresentação reali
 - **`Code Review/`**: Contém scripts Python vulneráveis demonstrando Command Injection em uma aplicação de ping, e suas respectivas correções.
 - **`Legislação/`**: Contém scripts Python utilizados para detectar vazamento de dados pessoais (PII) e gerar relatórios de auditoria em HTML.
 - **`Mobile/`**: Contém um projeto base de aplicativo Android para demonstrar integrações de segurança em ambiente mobile.
+
+### Agradecimentos
+
+Um agradecimento especial aos meus colegas que ajudaram a construir estes slides:
+- **Samuel** (GitHub: [samuelvlopes](https://github.com/samuelvlopes))
+- **Arthur** (LinkedIn: [arthurlimatech](https://www.linkedin.com/in/arthurlimatech/))
+
+E um muito obrigado à **XibéSec** pela incrível oportunidade de apresentar este conteúdo!
 
 ### Palestrante
 
